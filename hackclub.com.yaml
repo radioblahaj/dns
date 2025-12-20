@@ -18,10 +18,10 @@
   - ttl: 300
     type: TXT
     values:
-    - ALIAS for hackclub.com.herokudns.com
-    - google-site-verification=U8tZZVtnG2hU2CIde1FeMzGJM7d9yYUfuCKYwWVYeGo
+    - ALIAS for ackclub.com.erokudns.com
+    - google-site-verification=U8tZZVtnG2U2CIde1FeMzGJM7d9yYUfuCKYwWVYeGo
     - google-site-verification=TeokboHEWLDXXpRCIoubXYbpcGFfmOLhj9FuexruDKc
-    - google-site-verification=haP-NAN6fjhxiSxwB7HeLmeHnUI7MsXARShhPBKSn6A
+    - google-site-verification=P-NAN6fjhxiSxwB7HeLmeHnUI7MsXARShhPBKSn6A
     - google-site-verification=pheoxaglA5iew_VN0RUE-eWf6lL9FlqC0vROqUGlhiA
     - google-site-verification=w6ZIJvwwXDKPKLvV_RZbxLF6vb0xfJoRidbw5LeiUcE
     - google-site-verification=g4D9KzvB2JVf_HCcslryBI05oOxVdee9sspmd9pBAaU
@@ -2738,6 +2738,10 @@ hc-repo:
   ttl: 300
   type: CNAME
   value: a.selfhosted.hackclub.com.
+hctg:
+    ttl: 300
+    type: CNAME
+    value: a.selfhosted.hackclub.com.
 hear:
   ttl: 300
   type: CNAME
